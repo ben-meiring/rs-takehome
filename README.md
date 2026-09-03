@@ -89,6 +89,8 @@ $I(f)$ with $H^{\ast}(f) \asymp I(f)$. Closing that gap is the main open problem
 New here? Read [`problem_statement.md`](problem_statement.md), then skim
 [`theorems.md`](theorems.md). The individual files under [`theorems/`](theorems/) are self-contained.
 
+**[Open the interactive Theorem Atlas](https://ben-meiring.github.io/rs-takehome/)**
+
 ## Getting started
 
 **Lean proofs.** Needs [Lean 4 / elan](https://leanprover-community.github.io/get_started.html).
